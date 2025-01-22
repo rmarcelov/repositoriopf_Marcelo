@@ -28,6 +28,8 @@ public class ProyectoFinalDataOps {
         c = (vt1 + vt2 + vt3)* 0.10;
         pt = sm + c;
         // Salida de datos
+        System.out.println("DATOS ADICIONALES: ");
+        System.out.println("SE AGREGO CAMBIO PARA VALIDAR ");
         System.out.println("La comision de la venta es: " + c);
         System.out.println("El sueldo mensual del vendedor es: " + pt);
     }  // Fin del metodo
